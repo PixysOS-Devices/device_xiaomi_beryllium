@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/havoc_beryllium.mk
+    $(LOCAL_DIR)/pixys_beryllium.mk
 
 COMMON_LUNCH_CHOICES := \
-    havoc_beryllium-user \
-    havoc_beryllium-userdebug \
-    havoc_beryllium-eng
+    pixys_beryllium-user \
+    pixys_beryllium-userdebug \
+    pixys_beryllium-eng
